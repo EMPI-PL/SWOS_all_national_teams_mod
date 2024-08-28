@@ -4,11 +4,11 @@ This patch also provides other teams not associated with FIFA.
 
 ---
 - [SWOS All National Teams](#swos-all-national-teams)
-    - [What is SWOS?](#what-is-swos)
-    - [What will be inside?](#what-will-be-inside)
-    - [Tools in use](#tools-in-use)
-    - [Supported platforms](#supported-platforms)
-    - [Installation instructions](#installation-instructions)
+- [What is SWOS?](#what-is-swos)
+- [What will be inside?](#what-will-be-inside)
+- [Tools in use](#tools-in-use)
+- [Supported platforms](#supported-platforms)
+- [Installation instructions](#installation-instructions)
 
 ---
 ### What is SWOS?
