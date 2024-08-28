@@ -2,7 +2,7 @@
 1st 3 are ordered by latest ELO rank
 
 status | region | team
-------------- | -------------
+------------- | ------------- | -------------
 [ ] | Europe | Northern Cyprus
 [ ] | Asia | Kurdistan
 [ ] | Asia | Tibet
